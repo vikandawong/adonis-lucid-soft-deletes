@@ -64,7 +64,7 @@
     "typescript": "^5.5.3"
   },
   "peerDependencies": {
-    "@adonisjs/core": "^6.2.3",
+    "@adonisjs/core": "^7.3.3",
     "@adonisjs/lucid": "^22.1.1"
   },
   "author": "LookinGit",
